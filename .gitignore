@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
+*.env
+
+# Django static/media
+static/
+media/
+
+# SQLite database
+*.sqlite3
+
+# PyCharm
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Migrations cache
+*/migrations/__pycache__/
